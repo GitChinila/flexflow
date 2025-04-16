@@ -10,7 +10,7 @@
   align-items: center;
   gap: var(--spacing-lg);
   padding: 100px 0px;
-  background-image: url(/images/hero-background@2x.png);
+  background-image: url(/flexflow/images/hero-background@2x.png);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: var(--border-radius-lg);
@@ -351,7 +351,7 @@
 .project-discussion {
   display: flex;
   justify-content: center;
-  background-image: url(/images/project-discussion-background.png);
+  background-image: url(/flexflow/images/project-discussion-background.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 60px 16px;
@@ -407,5 +407,3 @@
     align-items: center;
   }
 }
-
-
