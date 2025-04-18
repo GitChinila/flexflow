@@ -10,7 +10,7 @@
   align-items: center;
   gap: var(--spacing-lg);
   padding: 100px 0px;
-  background-image: url("../images/hero-background.png");
+  background-image: url("../images/hero-background@2x.png");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: var(--border-radius-lg);
